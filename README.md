@@ -4,9 +4,8 @@ Project for Financial Engineering Club at UIUC - Spring 2025 semester
 ## Environment
 I am currently working on this locally on my PC with a NVIDIA GeForce RTX 4060. I am using PyTorch version 2.6.0+cu126 for CUDA 12.6.
 
-## Project Overview: 
-### Undergraduate Student Project Proposal:
-### Machine Learning for European Option Pricing
+## Project Overview
+### Undergraduate Student Project Proposal: Machine Learning for European Option Pricing
 
 The goal of this project is to develop a machine learning-based system for pricing European options
 and estimating implied volatility using open-source data from OptionDX.com. The project will
