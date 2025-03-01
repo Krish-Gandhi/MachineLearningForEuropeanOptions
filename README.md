@@ -20,11 +20,11 @@ SPX is a European style option instrument on the S&P500 Index.
 
 2. Model Development: Implement three machine learning models:
 
-&nbsp;• Random Forest – tree-based model, useful for feature importance analysis.
+  - Random Forest – tree-based model, useful for feature importance analysis.
 
-&nbsp;• XGBoost – ensembled model for efficient gradient boosting.
+  - XGBoost – ensembled model for efficient gradient boosting.
 
-&nbsp;• Neural Networks (e.g., Multi-Layer Perceptron) - for capturing complex non-linear patterns in option pricing.
+  - Neural Networks (e.g., Multi-Layer Perceptron) - for capturing complex non-linear patterns in option pricing.
 
 3. Model Evaluation: Compare the performance of the models using metrics such as RMSE, Rsquared, and computational time efficiency.
 
