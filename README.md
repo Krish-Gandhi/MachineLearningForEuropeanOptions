@@ -34,14 +34,14 @@ SPX is a European style option instrument on the S&P500 Index.
 
 ### Expected Outcomes
 
-• A robust machine learning framework for European option pricing constructed in Python (Google Colab link).
+    - A robust machine learning framework for European option pricing constructed in Python (Google Colab link).
 
-• Insights into the relative performance of different algorithms for financial data analysis.
+    - Insights into the relative performance of different algorithms for financial data analysis.
 
-• A deployable tool for traders and risk managers to estimate implied volatility quickly.
+    - A deployable tool for traders and risk managers to estimate implied volatility quickly.
 
 ### Stretch Goals
 
-• Compare the machine learning approaches to numerical methods for calculating implied volatility (Black-Scholes model). Is there a time advantage to using machine learning trained on this data compared to the numerical method? Is there a loss of accuracy?
+    - Compare the machine learning approaches to numerical methods for calculating implied volatility (Black-Scholes model). Is there a time advantage to using machine learning trained on this data compared to the numerical method? Is there a loss of accuracy?
 
-• Compare the machine learning models trained on different sizes of training set. What is the loss or increase in accuracy due to training set size? What is the trade-off due to additional training time?
+    - Compare the machine learning models trained on different sizes of training set. What is the loss or increase in accuracy due to training set size? What is the trade-off due to additional training time?
